@@ -42,3 +42,5 @@ A practical inventory and sales management system built with Core PHP and MySQL,
 - Database connectivity and environment-specific settings are in `includes/config.php`.
 - The app uses PDO prepared statements for database queries.
 - Ensure `uploads/` is writable by PHP.
+<img width="1905" height="902" alt="image" src="https://github.com/user-attachments/assets/7cc4926b-ec24-4950-828e-968bacdb84d6" />
+
